@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Jeongho%20Min&desc=AI%20Researcher&descAlign=50&descAlignY=65&strokeWidth=2&stroke=E0E0E0&fontSize=55&textBg=false)
+![header](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Jeongho%20Min&desc=Nobobie%20Research%20Engineer&descAlign=50&descAlignY=65&strokeWidth=2&stroke=E0E0E0&fontSize=55&textBg=false)
 
 
 ---
