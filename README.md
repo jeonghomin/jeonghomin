@@ -8,17 +8,6 @@
 
 <br/>
 
-<!-- ===================== CONTACT ===================== -->
-<div align="center">
-  <a href="mailto:jeongho.min@unist.ac.kr">
-    <img src="https://img.shields.io/badge/Email-jeongho.min@unist.ac.kr-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
-  </a>
-  <a href="https://jeonghomin.github.io">
-    <img src="https://img.shields.io/badge/GitHub%20Page-Visit-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</div>
-
----
 
 ## 👨‍🔬 Research Profile
 
@@ -74,3 +63,18 @@ Experienced in taking research ideas **from dataset construction to deployment**
   <img height="180"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeonghomin&layout=compact&langs_count=8&theme=default&hide_border=true"/>
 </p>
+
+<h3 align="center">📫 Contact 📫</h3>
+<div align="center">
+  <a href="https://jeonghomin.github.io">
+    <img src="https://img.shields.io/badge/GitHub_Page-181717?style=for-the-badge&logo=github&logoColor=white" />&nbsp
+  </a>
+  <a href="mailto:jeongho.min@unist.ac.kr">
+    <img
+      src="https://img.shields.io/badge/jeongho.min@unist.ac.kr-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+  </a>
+
+  <a href="https://linkedin.com/in/jeonghomin">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />&nbsp
+</a>
+</div>
