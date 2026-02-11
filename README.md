@@ -9,24 +9,11 @@
 <br/>
 
 
-## 👨‍🔬 Research Profile
-
-AI researcher with hands-on experience in **multimodal remote sensing (SAR / EO)**, inverse problems, and learning-based image reconstruction.  
-
-My work spans:
-- Super-Resolution  
-- Semantic Segmentation  
-- Multimodal Fusion  
-- Agentic LLM Systems (RAG, AI Agent, Orchestration)
-
-Experienced in taking research ideas **from dataset construction to deployment**.
-
 ---
-
 ## 🛠 Tech Stack
 
 ### 💻 Programming
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
@@ -34,20 +21,20 @@ Experienced in taking research ideas **from dataset construction to deployment**
 </p>
 
 ### 🧠 Deep Learning
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
 </p>
 
 ### 🌍 Computer Vision & Geospatial
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white">
 <img src="https://img.shields.io/badge/GDAL-5CAE58?style=for-the-badge">
 <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=QGIS&logoColor=white">
 </p>
 
 ### 🤖 LLM & Agent Systems
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge">
 <img src="https://img.shields.io/badge/LangGraph-1C1C1C?style=for-the-badge">
 <img src="https://img.shields.io/badge/LangServe-2E8B57?style=for-the-badge">
