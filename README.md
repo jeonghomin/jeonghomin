@@ -28,20 +28,9 @@ My work spans:
 - Super-Resolution  
 - Semantic Segmentation  
 - Multimodal Fusion  
-- Agentic LLM Systems for Geospatial Intelligence  
+- Agentic LLM Systems (RAG, AI Agent, Orchestration)
 
 Experienced in taking research ideas **from dataset construction to deployment**.
-
----
-
-## 🔬 Research Interests
-
-- Multimodal Remote Sensing (SAR / EO / Hyperspectral)
-- Inverse Problems & Image Reconstruction
-- Super-Resolution (RefSR, Blind SR, SISR)
-- Semantic Segmentation & Scene Understanding
-- Generative Models (GANs, Diffusion)
-- LLM-based Agentic Systems for Scientific Applications
 
 ---
 
