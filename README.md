@@ -3,7 +3,7 @@
   <img 
     src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2F80ED&text=Jeongho%20Min&height=150&fontSize=60" 
   />
-  <h3>AI Researcher</h3>
+  <h3>Noobie Research Engineer</h3>
 </div>
 
 <br/>
@@ -33,22 +33,6 @@ My work spans:
 Experienced in taking research ideas **from dataset construction to deployment**.
 
 ---
-
-## 🎓 Education
-
-**M.S. in Artificial Intelligence**  
-Ulsan National Institute of Science and Technology (UNIST)  
-Sep 2021 – Aug 2023  
-
-- Thesis: *Improving Reference-based Super Resolution in Remote Sensing via Domain Matching*  
-- Advisor: Jaejun Yoo  
-
-**B.S. in Computer Science and Engineering**  
-Kyungpook National University  
-Mar 2017 – Feb 2021  
-
-- Advisor: Jaeil Kim  
-
 
 ## 🔬 Research Interests
 
