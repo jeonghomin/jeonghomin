@@ -61,22 +61,35 @@ Mar 2017 – Feb 2021
 
 ---
 
-## 🛠 Technical Skills
+## 🛠 Tech Stack
 
-**Programming**  
-Python, C++, Java, MATLAB  
+### 💻 Programming
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
+<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=Mathworks&logoColor=white">
+</p>
 
-**Deep Learning**  
-PyTorch, TensorFlow  
+### 🧠 Deep Learning
+<p>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
+</p>
 
-**Computer Vision & Geo**  
-OpenCV, GDAL, QGIS  
+### 🌍 Computer Vision & Geospatial
+<p>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white">
+<img src="https://img.shields.io/badge/GDAL-5CAE58?style=for-the-badge">
+<img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=QGIS&logoColor=white">
+</p>
 
-**LLM & Agents**  
-LangChain, LangGraph, LangServe  
-
-**Systems & Deployment**  
-FastAPI, Docker, Git, Linux  
+### 🤖 LLM & Agent Systems
+<p>
+<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/LangGraph-1C1C1C?style=for-the-badge">
+<img src="https://img.shields.io/badge/LangServe-2E8B57?style=for-the-badge">
+</p>
 
 ---
 
