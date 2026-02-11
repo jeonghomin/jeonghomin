@@ -1,14 +1,13 @@
 <!-- ===================== HEADER ===================== -->
-![header](https://capsule-render.vercel.app/api?type=blur&height=300&color=0:89CFF0,100:2F80ED&text=Jeongho%20Min&desc=AI%20Researcher&descAlign=50&descAlignY=65&strokeWidth=2&stroke=FFFFFF&fontSize=55&textBg=false)
 
-<div align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2F80ED&text=Jeongho%20Min&height=150&fontSize=60" 
-  />
+
+<!-- <div align="center">
+  ![header](https://capsule-render.vercel.app/api?type=blur&height=300&color=0:89CFF0,100:2F80ED&text=Jeongho%20Min&desc=AI%20Researcher&descAlign=50&descAlignY=65&strokeWidth=2&stroke=FFFFFF&fontSize=55&textBg=false)
   <h3>Noobie Research Engineer</h3>
 </div>
 
-<br/>
+<br/> -->
+
 
 
 ---
