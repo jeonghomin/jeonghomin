@@ -1,85 +1,90 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2F80ED&text=Jeonghomin%27s%20GitHub&height=150&fontSize=60" 
+    src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2F80ED&text=Jeongho%20Min&height=150&fontSize=60" 
   />
-</div>
-
-<br/>
-
-<!-- ===================== INTRO ===================== -->
-<div align="center">
-  <h3>👋 Hello, I'm Jeonghomin</h3>
-  <p>Backend Developer | AI & Data Enthusiast</p>
+  <h3>AI Researcher</h3>
 </div>
 
 <br/>
 
 <!-- ===================== CONTACT ===================== -->
 <div align="center">
-  <h2>📬 Contact</h2>
-
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
+  <a href="mailto:jeongho.min@unist.ac.kr">
+    <img src="https://img.shields.io/badge/Email-jeongho.min@unist.ac.kr-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
   </a>
-
-  <a href="https://YOUR_NOTION_URL">
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
+  <a href="https://jeonghomin.github.io">
+    <img src="https://img.shields.io/badge/GitHub%20Page-Visit-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-
-  <a href="https://YOUR_TISTORY_URL">
-    <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/>
-  </a>
-
 </div>
 
-<br/>
+---
 
-<!-- ===================== TECH STACK ===================== -->
-<div align="center">
-  <h2>🚀 Tech Stack</h2>
+## 👨‍🔬 Research Profile
 
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white"/>
+AI researcher with hands-on experience in **multimodal remote sensing (SAR / EO)**, inverse problems, and learning-based image reconstruction.  
 
-  <br/><br/>
+My work spans:
+- Super-Resolution  
+- Semantic Segmentation  
+- Multimodal Fusion  
+- Agentic LLM Systems for Geospatial Intelligence  
 
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
+Experienced in taking research ideas **from dataset construction to deployment**.
 
-  <br/><br/>
+---
 
-  <!-- DB / DevOps -->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
-</div>
+## 🎓 Education
 
-<br/>
+**M.S. in Artificial Intelligence**  
+Ulsan National Institute of Science and Technology (UNIST)  
+Sep 2021 – Aug 2023  
 
-<!-- ===================== GITHUB STATS ===================== -->
-<div align="center">
-  <h2>📊 GitHub Stats</h2>
+- Thesis: *Improving Reference-based Super Resolution in Remote Sensing via Domain Matching*  
+- Advisor: Jaejun Yoo  
 
-  <img 
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=jeonghomin&show_icons=true&theme=default&hide_border=true"
-  />
+**B.S. in Computer Science and Engineering**  
+Kyungpook National University  
+Mar 2017 – Feb 2021  
 
-  <img 
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeonghomin&layout=compact&langs_count=8&theme=default&hide_border=true"
-  />
-</div>
+- Advisor: Jaeil Kim  
 
-<br/>
 
-<!-- ===================== FOOTER ===================== -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2F80ED&height=120&section=footer"/>
-</div>
+## 🔬 Research Interests
+
+- Multimodal Remote Sensing (SAR / EO / Hyperspectral)
+- Inverse Problems & Image Reconstruction
+- Super-Resolution (RefSR, Blind SR, SISR)
+- Semantic Segmentation & Scene Understanding
+- Generative Models (GANs, Diffusion)
+- LLM-based Agentic Systems for Scientific Applications
+
+---
+
+## 🛠 Technical Skills
+
+**Programming**  
+Python, C++, Java, MATLAB  
+
+**Deep Learning**  
+PyTorch, TensorFlow  
+
+**Computer Vision & Geo**  
+OpenCV, GDAL, QGIS  
+
+**LLM & Agents**  
+LangChain, LangGraph, LangServe  
+
+**Systems & Deployment**  
+FastAPI, Docker, Git, Linux  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180"
+    src="https://github-readme-stats.vercel.app/api?username=jeonghomin&show_icons=true&theme=default&hide_border=true"/>
+  <img height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeonghomin&layout=compact&langs_count=8&theme=default&hide_border=true"/>
+</p>
